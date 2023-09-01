@@ -1,0 +1,62 @@
+.all{
+    width: 1100px;
+    max-width: 70%;
+    margin: 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Lato', sans-serif;
+}
+.one{
+    width: 480px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.two{
+    width: 480px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 40px;
+    box-sizing: border-box;
+    
+}
+.pcone{
+    width: 400px;
+}
+.lenovo{
+    margin: -15px 0 0 0;
+}
+.price{
+    color: red;
+}
+ul{
+    background-color: rgb(226, 222, 222);
+    list-style-type: none;
+    padding: 15px;
+}
+.buy{
+    color: rgb(98, 26, 165);
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+.add{
+    color: rgb(98, 26, 165);
+    text-decoration: none;
+    margin: 0 0 0 30px;
+    font-weight: bold;
+}
+.back{
+    color: black;
+    font-size: 13px;
+    font-style: italic;
+    
+}
+.pctwo{
+    width: 410px;
+    margin: 65px 0 58px 0;
+}
